@@ -21,6 +21,9 @@ namespace MTASDF_Animal_Kingdom_andy
         {
             return "I'm an animal!";
         }
+        public override bool ReadyToBreed(int age, bool isMale)
+        {
 
+        }
     }
 }
